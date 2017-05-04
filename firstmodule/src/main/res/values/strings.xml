@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom Permission</string>
+    <string name="first_module_label">This is the FIRST module</string>
+    <string name="permission_lable">Custom Permission</string>
+    <string name="permission_description">Allow the app start activity from the first module.</string>
+    <string name="text_view_email_text">E-mail</string>
+    <string name="text_view_subject_text">Subject</string>
+    <string name="text_view_message_text">Message</string>
+    <string name="btn_send_text">Send</string>
+</resources>

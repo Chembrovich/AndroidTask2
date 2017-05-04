@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Module 2</string>
+    <string name="second_module_text">This is a SECOND module</string>
+    <string name="btn_open_first_module_text">Open first module</string>
+</resources>
